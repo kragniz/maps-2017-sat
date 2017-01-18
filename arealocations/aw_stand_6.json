@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "CorteXlab stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [354.38, 91.69],
+                [355.28, 91.72],
+                [355.28, 93.34],
+                [354.38, 93.34],
+                [354.38, 91.69]
+            ]
+        ]
+    }
+}
